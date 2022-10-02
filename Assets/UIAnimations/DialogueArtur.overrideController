@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DialogueArtur
+  m_Controller: {fileID: 9100000, guid: 8cbaf1efa0a06413d918c35cef44fb62, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9c29cfb603b8f30ae8b8b1a9091b6673, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 00ea176c501781e20bc810b169f38def, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c91dee14bfc827ea3889fb1fcbb04199, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6548943f6b1df96bfb332089f1377024, type: 2}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98021343811",
+    "project_id": "spooky-monsters-adventure",
+    "storage_bucket": "spooky-monsters-adventure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98021343811:android:f576981009daaffeee4af6",
+        "android_client_info": {
+          "package_name": "com.Aksana_Company.SpookyMonstersAdventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98021343811-3mhubuquf8mu4c1t1mqu2cuogbi91uue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVbWDicMja6U1ElYnWW7eepZu7dzUXz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98021343811-3mhubuquf8mu4c1t1mqu2cuogbi91uue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1759 @@
+fileFormatVersion: 2
+guid: 64aa9b9cbf3f27b6493150cfb56f31da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4017895302134918929
+    second: male_wizard_0
+  - first:
+      213: -2682362638691800207
+    second: male_wizard_1
+  - first:
+      213: -9107725304951977393
+    second: male_wizard_2
+  - first:
+      213: -3253957050967395225
+    second: male_wizard_3
+  - first:
+      213: 5236255747460694080
+    second: male_wizard_4
+  - first:
+      213: -8887568984319178622
+    second: male_wizard_5
+  - first:
+      213: 6782881559638464312
+    second: male_wizard_6
+  - first:
+      213: 7965164465755157275
+    second: male_wizard_7
+  - first:
+      213: 4901289561101194072
+    second: male_wizard_8
+  - first:
+      213: 1556582489631662972
+    second: male_wizard_9
+  - first:
+      213: -7315205538122020750
+    second: male_wizard_10
+  - first:
+      213: -3103351748692355969
+    second: male_wizard_11
+  - first:
+      213: -8232087974233961180
+    second: male_wizard_12
+  - first:
+      213: 4650767349055717948
+    second: male_wizard_13
+  - first:
+      213: 5513314487944823583
+    second: male_wizard_14
+  - first:
+      213: -4158319297941647093
+    second: male_wizard_15
+  - first:
+      213: -4790268620831782071
+    second: male_wizard_16
+  - first:
+      213: -3708336589178933338
+    second: male_wizard_17
+  - first:
+      213: -259636535383007630
+    second: male_wizard_18
+  - first:
+      213: -305576862008023647
+    second: male_wizard_19
+  - first:
+      213: 5499429826365106683
+    second: male_wizard_20
+  - first:
+      213: -4264793509681263189
+    second: male_wizard_21
+  - first:
+      213: -3187756304303165468
+    second: male_wizard_22
+  - first:
+      213: 7253415403457868708
+    second: male_wizard_23
+  - first:
+      213: 2376513217511888961
+    second: male_wizard_24
+  - first:
+      213: 1479475856822372935
+    second: male_wizard_25
+  - first:
+      213: 2970924611144159466
+    second: male_wizard_26
+  - first:
+      213: -8250097004274271845
+    second: male_wizard_27
+  - first:
+      213: 5174987961583523461
+    second: male_wizard_28
+  - first:
+      213: 3570575006516306725
+    second: male_wizard_29
+  - first:
+      213: 1010179922900400048
+    second: male_wizard_30
+  - first:
+      213: 57484585467264185
+    second: male_wizard_31
+  - first:
+      213: 7038142007451202056
+    second: male_wizard_32
+  - first:
+      213: 6273012888003397998
+    second: male_wizard_33
+  - first:
+      213: 252915940124230251
+    second: male_wizard_34
+  - first:
+      213: -8785562471885982705
+    second: male_wizard_35
+  - first:
+      213: 3879433776077897314
+    second: male_wizard_36
+  - first:
+      213: 8055709743570108314
+    second: male_wizard_37
+  - first:
+      213: 857909322850153908
+    second: male_wizard_38
+  - first:
+      213: -1007367485125746958
+    second: male_wizard_39
+  - first:
+      213: -3090055071298081917
+    second: male_wizard_40
+  - first:
+      213: 499227642567418738
+    second: male_wizard_41
+  - first:
+      213: -5720301302214319617
+    second: male_wizard_42
+  - first:
+      213: -4450948564517879814
+    second: male_wizard_43
+  - first:
+      213: -7035855064850786384
+    second: male_wizard_44
+  - first:
+      213: 7008956721693618196
+    second: male_wizard_45
+  - first:
+      213: 2109116205263464547
+    second: male_wizard_46
+  - first:
+      213: 2282592569948597748
+    second: male_wizard_47
+  - first:
+      213: -3273680476939282582
+    second: male_wizard_48
+  - first:
+      213: -1353532131922956223
+    second: male_wizard_49
+  - first:
+      213: 2142299138963608551
+    second: male_wizard_50
+  - first:
+      213: 7641229107100757578
+    second: male_wizard_51
+  - first:
+      213: 255905614992260318
+    second: male_wizard_52
+  - first:
+      213: 8382648284515214355
+    second: male_wizard_53
+  - first:
+      213: -1583324458607183574
+    second: male_wizard_54
+  - first:
+      213: -4290472586313789294
+    second: male_wizard_55
+  - first:
+      213: -345688727775171994
+    second: male_wizard_56
+  - first:
+      213: 6362746471113575184
+    second: male_wizard_57
+  - first:
+      213: -1708088752093430614
+    second: male_wizard_58
+  - first:
+      213: 7756978477654199397
+    second: male_wizard_59
+  - first:
+      213: 8254181924348828950
+    second: male_wizard_60
+  - first:
+      213: -8153956222355516688
+    second: male_wizard_61
+  - first:
+      213: 767322239347892035
+    second: male_wizard_62
+  - first:
+      213: 6424921779277070373
+    second: male_wizard_63
+  - first:
+      213: 3541956430848323455
+    second: male_wizard_64
+  - first:
+      213: -6717690212747355520
+    second: male_wizard_65
+  - first:
+      213: -7747173988193238325
+    second: male_wizard_66
+  - first:
+      213: -6599395144722563362
+    second: male_wizard_67
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_wizard_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7732
+        width: 256
+        height: 386
+      alignment: 9
+      pivot: {x: 0.5079211, y: 0.0043742917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0998ba2819d38c0800000000000000
+      internalID: -4017895302134918929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 7734
+        width: 256
+        height: 388
+      alignment: 9
+      pivot: {x: 0.48837876, y: -0.061338443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17beef1546556cad0800000000000000
+      internalID: -2682362638691800207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_2
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 7734
+        width: 256
+        height: 392
+      alignment: 9
+      pivot: {x: 0.51161957, y: -0.06830083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4086071cda9180800000000000000
+      internalID: -9107725304951977393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 7734
+        width: 256
+        height: 388
+      alignment: 9
+      pivot: {x: 0.51162004, y: -0.061338443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764f5b66d4f97d2d0800000000000000
+      internalID: -3253957050967395225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7226
+        width: 272
+        height: 391
+      alignment: 9
+      pivot: {x: 0.48906288, y: -0.06847801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400e740cdaeaa840800000000000000
+      internalID: 5236255747460694080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7222
+        width: 260
+        height: 412
+      alignment: 9
+      pivot: {x: 0.51144177, y: -0.05776533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28840ecd81309a480800000000000000
+      internalID: -8887568984319178622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_6
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 7222
+        width: 260
+        height: 368
+      alignment: 9
+      pivot: {x: 0.522883, y: -0.05658755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375ccb57d2a12e50800000000000000
+      internalID: 6782881559638464312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_7
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 7218
+        width: 264
+        height: 360
+      alignment: 9
+      pivot: {x: 0.55634284, y: -0.057845052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1376ee51e2f98e60800000000000000
+      internalID: 7965164465755157275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6710
+        width: 312
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85354ce33e0e40440800000000000000
+      internalID: 4901289561101194072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 6710
+        width: 328
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a616f6871a9510800000000000000
+      internalID: 1556582489631662972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_10
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 6710
+        width: 328
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2784449125b2b7a90800000000000000
+      internalID: -7315205538122020750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_11
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 6710
+        width: 312
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74da1ed60eaee4d0800000000000000
+      internalID: -3103351748692355969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6198
+        width: 280
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d05085a9fb1cd80800000000000000
+      internalID: -8232087974233961180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 6269
+        width: 348
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32837d5348da8040800000000000000
+      internalID: 4650767349055717948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_14
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 6198
+        width: 364
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1347f4e05a338c40800000000000000
+      internalID: 5513314487944823583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_15
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 6170
+        width: 380
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01598751aeaa46c0800000000000000
+      internalID: -4158319297941647093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6198
+        width: 208
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b0f9cb11c858db0800000000000000
+      internalID: -4790268620831782071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5686
+        width: 264
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe76e0587598cc0800000000000000
+      internalID: -3708336589178933338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_18
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 5686
+        width: 264
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e58c952f5956cf0800000000000000
+      internalID: -259636535383007630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_19
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 5686
+        width: 260
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5ee68867f52cbf0800000000000000
+      internalID: -305576862008023647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_20
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 5686
+        width: 264
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92ea33a46e15c40800000000000000
+      internalID: 5499429826365106683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5174
+        width: 264
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad8e0716e860d4c0800000000000000
+      internalID: -4264793509681263189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_22
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 5226
+        width: 256
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef6f7bd780d2c3d0800000000000000
+      internalID: -3187756304303165468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_23
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 5174
+        width: 256
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f37311ee49a460800000000000000
+      internalID: 7253415403457868708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_24
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 5174
+        width: 260
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14811d51e221bf020800000000000000
+      internalID: 2376513217511888961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 5174
+        width: 208
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0aa30477288410800000000000000
+      internalID: 1479475856822372935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4662
+        width: 292
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae096b57138da3920800000000000000
+      internalID: 2970924611144159466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_27
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 4662
+        width: 300
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b7b94c74c18d80800000000000000
+      internalID: -8250097004274271845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_28
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 4662
+        width: 300
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586db1ff12041d740800000000000000
+      internalID: 5174987961583523461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_29
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 4662
+        width: 304
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523ea4bfc0b3d8130800000000000000
+      internalID: 3570575006516306725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4150
+        width: 284
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b5b7a941e40e00800000000000000
+      internalID: 1010179922900400048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_31
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4210
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc36d80de93cc000800000000000000
+      internalID: 57484585467264185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_32
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 4150
+        width: 324
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80232e8bdd08ca160800000000000000
+      internalID: 7038142007451202056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_33
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 4118
+        width: 328
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c3ec5cf73e0750800000000000000
+      internalID: 6273012888003397998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_34
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 4150
+        width: 208
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62832125b9828300800000000000000
+      internalID: 252915940124230251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3638
+        width: 252
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bb3fca79631680800000000000000
+      internalID: -8785562471885982705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3638
+        width: 248
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e76c8177486d530800000000000000
+      internalID: 3879433776077897314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 3638
+        width: 244
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f362fa451abcf60800000000000000
+      internalID: 8055709743570108314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_38
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3638
+        width: 248
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5baf5dbf7e7eb00800000000000000
+      internalID: 857909322850153908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3134
+        width: 260
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe1dca0c9c1502f0800000000000000
+      internalID: -1007367485125746958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3134
+        width: 264
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b22e2d84bed15d0800000000000000
+      internalID: -3090055071298081917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_41
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3134
+        width: 268
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273694955ec9de600800000000000000
+      internalID: 499227642567418738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_42
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 3134
+        width: 256
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1af49e5486d90b0800000000000000
+      internalID: -5720301302214319617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2614
+        width: 240
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff706adcdd0b32c0800000000000000
+      internalID: -4450948564517879814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_44
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2614
+        width: 260
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b79f68981f9b5e90800000000000000
+      internalID: -7035855064850786384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_45
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2614
+        width: 392
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41072aad001d44160800000000000000
+      internalID: 7008956721693618196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_46
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2614
+        width: 380
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368afbc9306154d10800000000000000
+      internalID: 2109116205263464547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2102
+        width: 268
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6bb249d56daf10800000000000000
+      internalID: 2282592569948597748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_48
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2102
+        width: 304
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6717ef63fc8192d0800000000000000
+      internalID: -3273680476939282582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_49
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2098
+        width: 331
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140b7a482b9473de0800000000000000
+      internalID: -1353532131922956223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_50
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2077
+        width: 352
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31d8c67b9fabd10800000000000000
+      internalID: 2142299138963608551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1590
+        width: 252
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ead1053691b0a60800000000000000
+      internalID: 7641229107100757578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_52
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1590
+        width: 248
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc34ad0dc82d8300800000000000000
+      internalID: 255905614992260318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_53
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1590
+        width: 244
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314219b9336255470800000000000000
+      internalID: 8382648284515214355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_54
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1590
+        width: 248
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f7803bc6e60ae0800000000000000
+      internalID: -1583324458607183574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1086
+        width: 260
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29017362aed2574c0800000000000000
+      internalID: -4290472586313789294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_56
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1086
+        width: 264
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aaa120fedd33bf0800000000000000
+      internalID: -345688727775171994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_57
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1086
+        width: 268
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b489644340d4850800000000000000
+      internalID: 6362746471113575184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_58
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1086
+        width: 256
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac71ae6456ab48e0800000000000000
+      internalID: -1708088752093430614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 566
+        width: 240
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ccde2c3d256ab60800000000000000
+      internalID: 7756978477654199397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_60
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 566
+        width: 260
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d13484abebc8270800000000000000
+      internalID: 8254181924348828950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_61
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 566
+        width: 392
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d96c640457de80800000000000000
+      internalID: -8153956222355516688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_62
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 566
+        width: 380
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f9690e28316aa00800000000000000
+      internalID: 767322239347892035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 268
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200b7b4158e92950800000000000000
+      internalID: 6424921779277070373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_64
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 102
+        width: 304
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fef969b9e872130800000000000000
+      internalID: 3541956430848323455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_65
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 50
+        width: 328
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a5316e758f5c2a0800000000000000
+      internalID: -6717690212747355520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_66
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 27
+        width: 352
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28894dd428c7490800000000000000
+      internalID: -7747173988193238325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_wizard_67
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 54
+        width: 208
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edebf5ab41d3a64a0800000000000000
+      internalID: -6599395144722563362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

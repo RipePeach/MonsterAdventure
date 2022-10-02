@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5f1d90daed7513f9abc5c680941e9b97
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baloo Thambi
+  fontNames:
+  - Baloo Thambi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57af794c132114344978beb415faf255, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
