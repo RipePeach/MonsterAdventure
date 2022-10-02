@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Advertisements;
 
 public class AdsInitializer : MonoBehaviour, IUnityAdsInitializationListener, IUnityAdsLoadListener,
     IUnityAdsShowListener
@@ -65,7 +64,7 @@ public class AdsInitializer : MonoBehaviour, IUnityAdsInitializationListener, IU
         Debug.Log("Unity Ads initialization complete.");
         LoadAd();
         LoadBanner();
-        //Reward пока не используется
+        //RewardAds пока не используется
         //RewardAds.Instance.LoadRewardAd();
     }
 
@@ -80,7 +79,6 @@ public class AdsInitializer : MonoBehaviour, IUnityAdsInitializationListener, IU
 
     // Load content to the Ad Unit:
 
-
     public void LoadAd()
     {
         // IMPORTANT! Only load content AFTER initialization (in this example, initialization is handled in a different script).
@@ -90,7 +88,6 @@ public class AdsInitializer : MonoBehaviour, IUnityAdsInitializationListener, IU
 
     // Show the loaded content in the Ad Unit:
 
-
     public void ShowAd()
     {
         // Note that if the ad content wasn't previously loaded, this method will fail
@@ -99,7 +96,6 @@ public class AdsInitializer : MonoBehaviour, IUnityAdsInitializationListener, IU
     }
 
     // Implement Load Listener and Show Listener interface methods: 
-
 
     public void OnUnityAdsAdLoaded(string adUnitId)
     {
