@@ -117,6 +117,7 @@
      <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
      <Compile Include="Assets\Scripts\Base\PickUp.cs" />
      <Compile Include="Assets\Scripts\Managers, Singltones\AnaliticsManager.cs" />
+     <Compile Include="Assets\Scripts\Managers, Singltones\AdsInitializer.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\SpeechBoxes\Fonts\Varela Round\OFL.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
