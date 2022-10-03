@@ -100,6 +100,8 @@ public class AdsInitializer : MonoBehaviour, IUnityAdsInitializationListener, IU
     public void OnUnityAdsAdLoaded(string adUnitId)
     {
         // Optionally execute code if the Ad Unit successfully loads content.
+        //Показ сразу после старта игры
+        //ShowAd();
     }
 
     public void OnUnityAdsFailedToLoad(string adUnitId, UnityAdsLoadError error, string message)

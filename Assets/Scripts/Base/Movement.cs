@@ -47,8 +47,8 @@ public class Movement : MonoBehaviour
      {
          
      }
-    
-    public virtual void ApplyAnimation()
+
+     public virtual void ApplyAnimation()
     {
         if (Rigidbody2D != null)
         {

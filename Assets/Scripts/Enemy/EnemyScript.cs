@@ -78,6 +78,8 @@ public class EnemyScript : BaseClass
     {
         base.Death();
         Destroy(this);
+        //Показать интрастишл после смерти босса
+        AdsInitializer.Instance.ShowAd();
         //после смерти доступна атака ледяной глыбой
         _character.attackType = "Ice";
     }

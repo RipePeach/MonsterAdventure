@@ -88,6 +88,7 @@ public class EnemyMovement : Movement
             _currentIndex += _step;
         }
     }
+
     private void ChangeArray()
     {
         GameObject tmp = patrolPoints[0];
@@ -95,6 +96,12 @@ public class EnemyMovement : Movement
         {
             patrolPoints[i] = patrolPoints[i + 1];
         }
-        patrolPoints[patrolPoints.Count - 1] = tmp; // обращение к последнему элементу массива
+
+        patrolPoints[patrolPoints.Count - 1] = tmp;
+    } // обращение к последнему элементу массива
+    public override void ApplyAnimation()
+    {
+       //todo
     }
-}
+    }
+    

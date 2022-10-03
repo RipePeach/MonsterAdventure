@@ -39513,6 +39513,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: PauseExitMenu
       objectReference: {fileID: 0}
+    - target: {fileID: 4236609222971438119, guid: 08c68f62f3512a3499f1bedc83a1c1c7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236609222971438119, guid: 08c68f62f3512a3499f1bedc83a1c1c7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2096798662}
+    - target: {fileID: 4236609222971438119, guid: 08c68f62f3512a3499f1bedc83a1c1c7,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ExitGame
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08c68f62f3512a3499f1bedc83a1c1c7, type: 3}
 --- !u!224 &850506691 stripped
@@ -61730,6 +61745,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   platform: {fileID: 914529964}
+--- !u!114 &2096798662 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8225699428899968198, guid: 23ac9fe5e8e5cd69bb173b34d9dc5521,
+    type: 3}
+  m_PrefabInstance: {fileID: 1429227423700166046}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d935b18d9a338a485964fb4c8e91358c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2123524937
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -133,8 +133,7 @@ public class CharacterScript : BaseClass
         StartCoroutine(LevelCoroutine());
         transform.position = startPosition;
         health = maxHealth;
-        //Аналитика, реклама
-        AdsInitializer.Instance.LoadAd();
+        //Аналитика
         FirebaseAnalytics.LogEvent("PlayerDie", new Parameter("die", 1) );
     }
 

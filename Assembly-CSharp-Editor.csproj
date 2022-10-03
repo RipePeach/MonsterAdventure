@@ -744,6 +744,9 @@
  <Reference Include="Unity.Searcher.Editor">
  <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
  <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
@@ -792,17 +795,14 @@
  <Reference Include="Unity.Mathematics.Editor">
  <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Advertisements.Editor">
+ <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Editor">
  <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Recorder">
  <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>D:/MonstersAdventure/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

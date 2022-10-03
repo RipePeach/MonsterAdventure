@@ -75,6 +75,8 @@ public class Monster : BaseClass, IDoEffect
 
         return false;
     }
+    
+    
 
     public void CreateEffect()
     {
