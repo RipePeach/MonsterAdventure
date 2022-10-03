@@ -1,4 +1,4 @@
-﻿using Firebase.Analytics;
+﻿
 using UnityEngine;
 
 public class Exit : MonoBehaviour
@@ -18,7 +18,7 @@ public class Exit : MonoBehaviour
             // Character's data
             _character.startPosition = newPlayerPosition;
             _character.Save();
-            FirebaseAnalytics.LogEvent("LoadSceneMainScene", new Parameter("LoadScene", 1));
+            //FirebaseAnalytics.LogEvent("LoadSceneMainScene", new Parameter("LoadScene", 1));
             SceneLoader.Instance.LoadNextSceneByName("MainScene");
         }
     }

@@ -1,5 +1,4 @@
 using System.Collections;
-using Firebase.Analytics;
 using UnityEngine;
 
 namespace Enters
@@ -15,7 +14,7 @@ namespace Enters
             {
                 character.startPosition = newPlayerPosition;
                 character.Save();
-                FirebaseAnalytics.LogEvent("LoadSceneHome1", new Parameter("LoadScene", 1));
+                //FirebaseAnalytics.LogEvent("LoadSceneHome1", new Parameter("LoadScene", 1));
                 StartCoroutine(LevelCoroutine());
             }
         }

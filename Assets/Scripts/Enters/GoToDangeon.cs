@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using Firebase.Analytics;
 using UnityEngine;
 
 public class GoToDangeon : MonoBehaviour
@@ -13,7 +12,7 @@ public class GoToDangeon : MonoBehaviour
         {
             character.startPosition = newPlayerPosition;
             character.Save();
-            FirebaseAnalytics.LogEvent("LoadSceneSampleScene", new Parameter("LoadScene", 1));
+            //FirebaseAnalytics.LogEvent("LoadSceneSampleScene", new Parameter("LoadScene", 1));
             StartCoroutine(LevelCoroutine());
         }
     }
